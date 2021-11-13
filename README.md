@@ -4,9 +4,9 @@ Desenvolvimento de um modelo-computacional capaz de classificar o gênero (mascu
 
 
 Equipe:
-Camila Manara Ribeiro
-Júlia Aparecida Sousa de Oliveira
-Luciana Oliveira de Souza Gomes
+Camila Manara Ribeiro,
+Júlia Aparecida Sousa de Oliveira,
+Luciana Oliveira de Souza Gomes,
 Rafael Vinicius Polato Passador
 
 Professor:
