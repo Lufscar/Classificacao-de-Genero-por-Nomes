@@ -1,7 +1,7 @@
 # Classificacao-de-Genero-por-Nomes
 Desenvolvimento de um modelo-computacional capaz de classificar o gênero (masculino ou feminino) dos nomes baseados na extração de features (TF-IDF e análise gramatical) e do classificador clássico de aprendizado de máquina Naive Bayes.
 
-
+Colab: https://colab.research.google.com/drive/1RyJqd-NNJ6CWQcc0pJYtMIFqmIKBqBsa?usp=sharing
 
 Equipe:
 Camila Manara Ribeiro,
