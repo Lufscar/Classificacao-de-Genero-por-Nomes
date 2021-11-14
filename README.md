@@ -5,7 +5,7 @@ Colab: https://colab.research.google.com/drive/1RyJqd-NNJ6CWQcc0pJYtMIFqmIKBqBsa
 
 NB viewer: https://nbviewer.org/github/RafaelPassador/Classificacao-de-Genero-por-Nomes/blob/main/Trabalho1_AM_Classifica%C3%A7%C3%A3o_De_Nomes.ipynb
 
-Link da apresentação: https://drive.google.com/file/d/1L3J7XxwvUf3-TPhWSZZrCE23fYtJFcTT/view
+Link da apresentação: [<img src="https://img.youtube.com/vi/rm2VNBHo7Ks/maxresdefault.jpg" width="50%">](https://youtu.be/rm2VNBHo7Ks)
 
 Equipe:
 Camila Manara Ribeiro,
